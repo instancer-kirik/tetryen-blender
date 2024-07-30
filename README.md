@@ -8,4 +8,4 @@ Specifically, spheres have centers on each vert of a tetrahedron for added dimen
 DISCLAIMER: this had leaked geometry from each of the points, probably from circle resolution, I clipped it off with booleans
 Feel free to make better or use shape however you want, it is free; unlicenced.
 
-
+![image](https://github.com/user-attachments/assets/8dde1f4a-cee6-40d8-abea-ef751d6c02fd)
